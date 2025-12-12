@@ -1,1 +1,1 @@
-<h1 align="center">Checkout my posts at https://ntpower.github.io/</h1>
+<h1 align="center">Checkout my posts at https://0xntpower.github.io/</h1>
