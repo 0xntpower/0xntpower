@@ -1,27 +1,27 @@
 <div align="center">
-  <h1>👋 Hey, I'm ntpower</h1>
-  <p>Low Level Security Researcher & Developer</p>
+  <h1>ntpower</h1>
+  <p>Low-Level Security Researcher & Developer</p>
 </div>
 
 ---
 
-### 🔐 About Me
+### About
 
-I'm a cybersecurity professional specializing in low level development, Windows internals and malware analysis. Currently working on the Agent, tooling and some intrastracture at **ThreatForge Labs** while studying advanced exploit development.
+I'm a cybersecurity professional specializing in low-level development, Windows internals, and malware analysis. Currently developing agents, tooling, and infrastructure at **ThreatForge Labs** while pursuing advanced exploit development research.
 
-### 📝 Writing & Projects
+### Writing & Projects
 
-I share technical writeups, research, and security tools:
+I publish technical research, security analysis, and open-source tools:
 
-- 📖 **Blog**: [blog.ntpower.dev](https://blog.ntpower.dev/)
-- 🔬 **Tools**: Published here on Github
+- **Blog**: [blog.ntpower.dev](https://blog.ntpower.dev/)
+- **Tools**: Available in my repositories
 
-### 📫 Get in Touch
+### Contact
 
-- **Email**: contact@ntpower.dev
+**Email**: contact@ntpower.dev
 
 ---
 
 <div align="center">
-  <i>Building tools for the security community | Always learning, always breaking things</i>
+  <sub>Building tools for the security community | Always learning, always breaking things</sub>
 </div>
