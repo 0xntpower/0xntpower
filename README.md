@@ -13,7 +13,7 @@ I'm a cybersecurity professional specializing in low-level development, Windows 
 
 I publish technical research, security analysis, and open-source tools:
 
-• **Tools**: [C/C++ repos](https://github.com/0xntpower?tab=repositories&language=c%2B%2B) • **Blog**: [blog.ntpower.dev](https://blog.ntpower.dev/) • **Email**: contact@ntpower.dev
+• **Tools**: [C](https://github.com/0xntpower?tab=repositories&q=&type=&language=c&sort=)/[C++](https://github.com/0xntpower?tab=repositories&language=c%2B%2B) repos • **Blog**: [blog.ntpower.dev](https://blog.ntpower.dev/) • **Email**: contact@ntpower.dev
 
 
 ---
