@@ -7,18 +7,14 @@
 
 ### About
 
-I'm a cybersecurity professional specializing in low-level development, Windows internals, and malware analysis. Currently developing agents, tooling, and infrastructure at **ThreatForge Labs** while pursuing advanced exploit development research.
+I'm a cybersecurity professional specializing in low-level development, Windows internals, and malware analysis. Currently developing agents, tooling, and infrastructure at **ThreatForge Labs** while studying advanced exploit development research.
 
 ### Writing & Projects
 
 I publish technical research, security analysis, and open-source tools:
 
-- **Blog**: [blog.ntpower.dev](https://blog.ntpower.dev/)
-- **Tools**: Available in my repositories
+• **Tools**: [C/C++ repos](https://github.com/0xntpower?tab=repositories&language=c%2B%2B) • **Blog**: [blog.ntpower.dev](https://blog.ntpower.dev/) • **Email**: contact@ntpower.dev
 
-### Contact
-
-**Email**: contact@ntpower.dev
 
 ---
 
