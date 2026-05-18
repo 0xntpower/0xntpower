@@ -7,7 +7,7 @@
 
 ### About
 
-I'm a cybersecurity professional specializing in low-level development, Windows internals, and malware analysis. Currently developing agents, tooling and the backend architecture at **ThreatForge Security** while studying advanced exploit development.
+I'm a cybersecurity professional specializing in low-level development, Windows internals, and malware analysis and a Co-Founder at **ThreatForge Security**, developing agents, tooling and the backend architecture while studying advanced exploit development.
 
 ### Writing & Projects
 
